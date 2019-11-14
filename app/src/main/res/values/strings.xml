@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejercicio_1</string>
+    <string name="Student_Name">Nombre</string>
+    <string name="Student_Date">Fecha de cumpleaños</string>
+    <string name="Student_Date_Day">Dia</string>
+    <string name="Student_Date_Month">Mes</string>
+    <string name="Student_Date_Year">Año</string>
+    <string name="Student_Mail">Correo electronico</string>
+    <string name="Student_Count">Numero de cuenta</string>
+    <string name="Button">Enviar</string>
+    <string name="Button2">Regresar</string>
+    <string name="Student_Name2">Nombre</string>
+    <string name="Student_Count2">Numero de cuenta</string>
+    <string name="Student_Age">Edad</string>
+    <string name="Student_Mail2">Correo</string>
+    <string name="Student_Sign">Horoscopo</string>
+</resources>
